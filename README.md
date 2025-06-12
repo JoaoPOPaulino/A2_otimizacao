@@ -94,7 +94,10 @@ Tempo médio total mínimo: 264.0 min
 ## 👨‍💻 Autores
 
 **João Pedro de Oliveira** 
+
 **Luiz Cláudio de Oliveira**
+
 **Werbton Carvalho da Rocha Filho**
+
 Curso de Sistemas de Informação – UNITINS  
 Trabalho acadêmico para a A2 da disciplina de Otimização para Sistema
